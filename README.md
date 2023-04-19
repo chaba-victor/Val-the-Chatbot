@@ -62,15 +62,15 @@ Have a look at [intents.json](intents.json). You can customize it according to y
       "patterns": [
         "Hi",
         "Hey",
-        "How are you",
-        "Is anyone there?",
+        "...",
+        "...",
         "Hello",
         "Good day"
       ],
       "responses": [
         "Hey :-)",
-        "Hello, thanks for visiting",
-        "Hi there, what can I do for you?",
+        "...",
+        "...",
         "Hi there, how can I help?"
       ]
     },
