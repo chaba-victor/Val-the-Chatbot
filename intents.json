@@ -22,9 +22,9 @@
       "tag": "goodbye",
       "patterns": ["Bye", "See you later", "Goodbye"],
       "responses": [
-        "See you later, thanks for visiting",
-        "Have a nice day",
-        "Bye! Come back again soon."
+      "See you later, thanks for visiting",
+      "Have a nice day",
+      "Bye! Come back again soon."
       ]
     },
     {
@@ -40,7 +40,9 @@
         "What do you sell?"
       ],
       "responses": [        
-        "We have a variety of scented candles"
+        "We have a variety of scented candles",
+        "We sell scented candles",
+        "We sell nice smelling candles"
       ]
     },
     {
@@ -51,12 +53,13 @@
         "Can I pay with Paypal?",
         "Do you accetp cash?",
         "Can I pay cash on delivery?"
+        "Can I pay with M-Pesa?"
       ],
       "responses": [
         "We will be accepting VISA, Mastercard and Paypal soon",
-        "We accept most major credit cards, and Paypal",
         "Yes, we accept cash payments",
-        "Yes, you can pay cash on delivery"
+        "Yes, you can pay cash on delivery",
+        "Yes, we accept M-Pesa payments"
       ]
     },
     {
