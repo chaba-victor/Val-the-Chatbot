@@ -8,8 +8,7 @@
         "How are you",
         "Is anyone there?",
         "Hello",
-        "Good day",
-        "Hello Val"
+        "Good day"
       ],
       "responses": [
         "Hey :-)",
@@ -22,27 +21,26 @@
       "tag": "goodbye",
       "patterns": ["Bye", "See you later", "Goodbye"],
       "responses": [
-      "See you later, thanks for visiting",
-      "Have a nice day",
-      "Bye! Come back again soon."
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
       ]
     },
     {
       "tag": "thanks",
-      "patterns": ["Thanks", "Thank you", "Thank's a lot!"],
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
       "responses": ["Happy to help!", "Any time!", "My pleasure"]
     },
     {
       "tag": "items",
       "patterns": [
         "Which items do you have?",
-        "What kinds of items are there?",        
+        "What kinds of items are there?",
         "What do you sell?"
       ],
-      "responses": [        
-        "We have a variety of scented candles",
-        "We sell scented candles",
-        "We sell nice smelling candles"
+      "responses": [
+        "We sell coffee and tea",
+        "We have coffee and tea"
       ]
     },
     {
@@ -51,15 +49,11 @@
         "Do you take credit cards?",
         "Do you accept Mastercard?",
         "Can I pay with Paypal?",
-        "Do you accetp cash?",
-        "Can I pay cash on delivery?"
-        "Can I pay with M-Pesa?"
+        "Are you cash only?"
       ],
       "responses": [
-        "We will be accepting VISA, Mastercard and Paypal soon",
-        "Yes, we accept cash payments",
-        "Yes, you can pay cash on delivery",
-        "Yes, we accept M-Pesa payments"
+        "We accept VISA, Mastercard and Paypal",
+        "We accept most major credit cards, and Paypal"
       ]
     },
     {
@@ -70,8 +64,8 @@
         "When do I get my delivery?"
       ],
       "responses": [
-        "Delivery takes 1-2 days",
-        "Shipping takes 1-2 days"
+        "Delivery takes 2-4 days",
+        "Shipping takes 2-4 days"
       ]
     },
     {
@@ -82,8 +76,8 @@
         "Do you know a joke?"
       ],
       "responses": [
-        "What did the candle say to its friend? I’m going out tonight.",
-        "Why was the weak candle flickering all through the night? It was going through a sick burn."
+        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
+        "What did the buffalo say when his son left for college? Bison."
       ]
     }
   ]
