@@ -25,7 +25,6 @@ $ (venv) python chat.py
 ```
 
 ## Note
-In the video we implement the first approach using jinja2 templates within our Flask app. Only slight modifications are needed to run the frontend separately.
 This is a very simple, bare metal implementation of an NLP chatbot with very little training data, so it won't work like the LLMs because it can't. It is however quite useful for simple websites, like single vendor e-commerce sites, when done right.
 
 ## Credits:
