@@ -8,11 +8,12 @@
         "How are you",
         "Is anyone there?",
         "Hello",
-        "Good day"
+        "Whats up"
       ],
       "responses": [
         "Hey :-)",
-        "Hello, thanks for visiting",
+        "Hello there, thanks for reaching out, how can I help?",
+        "Hi, which scent are you looking for today?",
         "Hi there, what can I do for you?",
         "Hi there, how can I help?"
       ]
@@ -35,12 +36,12 @@
       "tag": "items",
       "patterns": [
         "Which items do you have?",
-        "What kinds of items are there?",
+        "What kinds of candle are there?",
         "What do you sell?"
       ],
       "responses": [
-        "We sell coffee and tea",
-        "We have coffee and tea"
+        "We sell candles with scents",
+        "We have a variety of scented candles"
       ]
     },
     {
@@ -64,8 +65,7 @@
         "When do I get my delivery?"
       ],
       "responses": [
-        "Delivery takes 2-4 days",
-        "Shipping takes 2-4 days"
+        "Delivery takes a day within Nairobi"
       ]
     },
     {
